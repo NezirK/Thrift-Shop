@@ -1,0 +1,17 @@
+.carousel-container {
+  max-width: 100%;
+  position: relative;
+  top: 300px;
+}
+
+.carousel .slide img {
+  height: 80vh;
+  object-fit: cover;
+}
+
+.carousel .legend {
+  background: rgba(0, 0, 0, 0.6);
+  font-size: 1.4rem;
+  padding: 1rem;
+  bottom: 20px;
+}
